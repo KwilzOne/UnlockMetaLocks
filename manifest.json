@@ -1,20 +1,22 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
-  "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
-  },
-  "version": "1.0.0",
-  "updater": {
-    "type": "github",
-    "id": "replugged-org/plugin-template"
-  },
-  "license": "MIT",
-  "type": "replugged-plugin",
-  "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+	"id": "dev.KwilzOne.UnlockMetaLocks",
+	"name": "Unlock Meta Locks",
+	"description": "Unlock meta locks in discord",
+	"author": {
+		"name": "Kwilz",
+		"discordID": "399131924335165441",
+		"github": "KwilzOne"
+	},
+	"version": "1.0.0",
+	"updater": {
+		"type": "github",
+		"id": "KwilzOne/UnlockMetaLocks"
+	},
+	"license": "MIT",
+	"type": "replugged-plugin",
+	"renderer": "src/index.ts",
+	"source": "https://github.com/KwilzOne/UnlockMetaLocks",
+	"image": [
+		"https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"
+	]
 }
